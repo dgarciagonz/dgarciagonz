@@ -1,6 +1,6 @@
 ✨Welcome to my Git!✨
 
-📍Currently living in Spain 🇪🇸💃
+📍Currently living in Spain 💃
 
 📚 I’m currently studying DAW and learning:
 
@@ -10,6 +10,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Docker</li>
+  <li>Java</li>
 </ul>
 </html>
 <!--
