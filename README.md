@@ -1,6 +1,6 @@
-✨Welcome to my Git!✨
+✨ Welcome to my Git! ✨
 
-📍Currently living in Spain 💃
+📍 Now living in Spain 💃
 
 📚 I’m currently studying DAW and learning:
 
