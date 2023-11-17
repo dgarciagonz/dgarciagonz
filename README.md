@@ -1,6 +1,18 @@
 ### Hi there 👋
-d
+<html>
+  <link rel="stylesheet" href="estilos.css">
 
+
+📚 I’m currently studying DAW and learning:
+
+<ul>
+  <li>PHP</li>
+  <li>Js</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Docker</li>
+</ul>
+</html>
 <!--
 **dgarciagonz/dgarciagonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
