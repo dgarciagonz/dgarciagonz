@@ -1,7 +1,6 @@
-### Hi there 👋
-<html>
-  <link rel="stylesheet" href="estilos.css">
+✨Welcome to my Git!✨
 
+📍Currently living in Spain 🇪🇸💃
 
 📚 I’m currently studying DAW and learning:
 
