@@ -7,7 +7,7 @@
 
 <ul>
   <li>PHP</li>
-  <li>Js</li>
+  <li>JS</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Docker</li>
