@@ -9,7 +9,8 @@
   <li>JS</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Docker</li>
+  <li>Laravel</li>
+  <li>VueJS</li>
   <li>Java</li>
 </ul>
 </html>
