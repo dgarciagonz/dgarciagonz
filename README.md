@@ -2,7 +2,16 @@
 
 📍 Now living in Spain 💃
 
-📚 I’m currently studying DAW and learning:
+📚 I’m currently studying and learning:
+<ul>
+  <li>Spring</li>
+  <li>Hibernate</li>
+  <li>JPA</li>
+  <li>Maven</li>
+  <li>Lombok</li>
+</ul>
+
+📈 And I still improving in:
 
 <ul>
   <li>PHP</li>
